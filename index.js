@@ -22,3 +22,4 @@ function currentLine(line) {
     lineDisplay = lineDisplay.slice(0, lineDisplay.length - 2);
     return "The line is currently: " + lineDisplay;
 }
+}
